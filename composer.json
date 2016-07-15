@@ -1,0 +1,15 @@
+{
+    "name": "eugeny/crawler",
+    "description": "Test task",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeniy Shevchuk",
+            "email": "evgenshe@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["lib/", "lib/Curl", "lib/Helper", "lib/Validator"]
+    }
+}
